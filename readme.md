@@ -1,8 +1,6 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/beautifygithubprofile/master/cover-repo.jpg">
+<h1 class="center"> Hello, World 🖐️</h1>
 
-# Hello friends 🖐️
-
-how are you If you want to make the look of your github profile more beautiful, you have come to the right place
+If you want to make the look of your github profile more beautiful, you have come to the right place
 
 # 📌 The first step : Set up the GitHub Repository
 
@@ -20,7 +18,7 @@ Template : 👇
 
 Example : 👇
 
-    https://github.com/rzashakeri/rzashakeri
+    https://github.com/Don-PhDev/Don-PhDev
 
 ### **Create a README.md** and Done ✅
 
@@ -66,7 +64,7 @@ A badge generator service to count visitors of your markdown file.
 
 Concise, consistent, and legible badges in SVG and raster format and Make tokens with custom values
 
-📍 For example : &nbsp; <img src="https://img.shields.io/badge/reza-shakeri-%20"/> &nbsp; <img alt="AppVeyor tests badge" src="https://img.shields.io/badge/tests-477%20passed%2C%202%20failed-red"> &nbsp; <img alt="Open VSX Rating (Stars) badge" src="https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen">
+📍 For example : &nbsp; <img src="https://img.shields.io/badge/Don-PhDev-%20"/> &nbsp; <img alt="AppVeyor tests badge" src="https://img.shields.io/badge/tests-477%20passed%2C%202%20failed-red"> &nbsp; <img alt="Open VSX Rating (Stars) badge" src="https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen">
 <br/>
 
 #### 5 . [laravel github profile view counter](https://github.com/caneco/laravel-github-profile-view-counter)
@@ -355,7 +353,7 @@ Showcase your github stats on your profile README.md
 
 <br/>
 
-<img src="readme.png">
+<img src="README.png">
 
 <br/>
 <br/>
@@ -968,7 +966,6 @@ An infographics generator with 30+ plugins and 200+ options to display stats abo
   </tr>
 </tbody></table>
 <br/>
-<br/>
 
 ---
 
@@ -984,10 +981,8 @@ An infographics generator with 30+ plugins and 200+ options to display stats abo
 
 <svg role="img" width=50 viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M10.51,10.013V7.299c0-0.306,0.248-0.554,0.554-0.554h1.911c0.306,0,0.554,0.248,0.554,0.554v4.968 c0,0.076-0.038,0.134-0.076,0.191l-0.478,0.478c-0.115,0.115-0.115,0.287,0,0.382l0.478,0.478c0.057,0.057,0.076,0.115,0.076,0.191 v2.713c0,0.306-0.248,0.554-0.554,0.554h-1.911c-0.306,0-0.554-0.248-0.554-0.554v-4.968c0-0.076,0.038-0.134,0.076-0.191 l0.478-0.478c0.115-0.115,0.115-0.287,0-0.382l-0.478-0.478C10.529,10.146,10.51,10.089,10.51,10.013z M19.127,12 c0-3.936-3.191-7.127-7.127-7.127S4.873,8.064,4.873,12S8.064,19.127,12,19.127S19.127,15.936,19.127,12z M21.382,12 c0,5.178-4.204,9.363-9.363,9.363c-5.178,0-9.363-4.204-9.363-9.363c0-5.178,4.204-9.363,9.363-9.363 C17.178,2.637,21.382,6.822,21.382,12z M0.764,12c0,6.21,5.025,11.236,11.236,11.236S23.236,18.21,23.236,12S18.21,0.764,12,0.764 S0.764,5.79,0.764,12z M0,12C0,5.369,5.369,0,12,0c6.631,0,12,5.369,12,12s-5.369,12-12,12S0,18.631,0,12z"/></svg> &nbsp; <svg role="img" width=50 viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M11.964 0L.672 3.974l1.784 14.794L11.976 24l9.568-5.303 1.784-14.794zm-.027 1.258l10.265 3.5-1.663 13.232-8.602 4.76-8.469-4.697L1.939 4.822zm0 .78L4.957 17.57l2.604-.048 1.4-3.501h6.257l1.532 3.55 2.492.046zm.02 4.98l2.355 4.93H9.878Z"/></svg>
 <br/>
-<br/>
 
-
-----------
+---
 
 ### If you like, you can also help me develop this repository so that from now on we have more beautiful GateHub profiles 💙
 
