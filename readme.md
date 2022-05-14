@@ -1,6 +1,6 @@
-<h1 class="center"> Hello, World 🖐️</h1>
+<h1 align="center"> Hello, World 🖐️</h1>
 
-If you want to make the look of your github profile more beautiful, you have come to the right place
+<p align="center">If you want to make the look of your GitHub profile fascinating, you have come to the right place.</p>
 
 # 📌 The first step : Set up the GitHub Repository
 
